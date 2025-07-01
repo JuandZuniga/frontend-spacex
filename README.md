@@ -1,5 +1,5 @@
 # Frontend Space X
-## Resumén
+## Resumen
 El Frontend de SpaceX es una aplicación web que presenta un dashboard con visualizaciones de los lanzamientos realizados a lo largo del año, incluyendo el número total de misiones. Además, permite acceder a los detalles de cada cohete y su respectiva misión.
 
 ## Tecnologías Utilizadas
